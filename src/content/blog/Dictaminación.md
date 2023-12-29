@@ -1,9 +1,9 @@
 ---
-title: "Demo Post 1"
+title: "Sitio de Dictaminación Agencia Digital"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 10 2022"
-heroImage: "/post_img.webp"
-tags: ["tokio"]
+pubDate: "Jul 10 2023"
+heroImage: "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/658f26eea5b908000897b9d4/screenshot_2023-12-29-20-07-58-0000.webp"
+tags: ["React","Bootstrap", "Node"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor

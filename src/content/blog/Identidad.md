@@ -1,10 +1,9 @@
 ---
-title: "Demo Post 3"
+title: "Identidad Digital BC"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 12 2022"
-heroImage: "/post_img.webp"
-badge: "Demo badge"
-tags: ["rust","tokio"]
+pubDate: "Sep 10 2023"
+heroImage: "https://www.identidadbc.bajacalifornia.gob.mx/resources/img/Imagenes/img_huella@4x.png"
+tags: ["java" , "PostgresSQL"]
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
