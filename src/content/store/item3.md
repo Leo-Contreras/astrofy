@@ -1,15 +1,19 @@
 ---
-title: "Demo Item 3"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-custom_link_label: "Custom Btn"
-custom_link: "https://customurl.com/"
-updatedDate: "Sep 11 2022"
-pricing: "$10"
-oldPricing: "$25.5"
+title: "Desarrollo de Páginas Web Estáticas"
+description: "Ofrecemos servicios especializados en la creación de páginas web estáticas que cautiven a tus visitantes. Desde páginas de publicidad impactantes hasta landing pages efectivas, estamos aquí para convertir tus ideas en realidad en línea."
+custom_link_label: "Ver Ejemplos"
+custom_link: "https://ejemplo.com/ejemplos"
+updatedDate: "Sep 15 2022"
+pricing: "Precios asequibles"
+badge: "Destacado"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/itemPreview.png"
+heroImage: "/imagenEjemplo.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+¿Deseas tener una presencia en línea efectiva y atractiva? Nuestro servicio de desarrollo de páginas web estáticas es la solución perfecta. Nos especializamos en la creación de páginas web que resaltan tus productos, servicios o mensajes de manera impactante.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Ya sea que necesites una página de publicidad llamativa para tu negocio o una landing page que convierta visitantes en clientes, estamos aquí para ayudarte. Nuestro enfoque en el diseño elegante y la claridad del mensaje garantiza que tus visitantes tengan una experiencia positiva en tu sitio web.
+
+Nuestros servicios incluyen la creación de diseños atractivos, la optimización de velocidad de carga y la integración de formularios de contacto y llamadas a la acción. Comunícate con nosotros hoy mismo para ver ejemplos de nuestras creaciones anteriores y obtener un presupuesto asequible para tu proyecto.
+
+Lleva tu presencia en línea al siguiente nivel con nuestras páginas web estáticas que destacan y convierten.

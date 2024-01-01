@@ -1,15 +1,17 @@
 ---
-title: "Demo Item 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-custom_link_label: "Custom Btn"
-custom_link: "https://customurl.com/"
-updatedDate: "Sep 11 2022"
-pricing: "$10"
-oldPricing: "$25.5"
+title: "Servicio de Implementación de Plantillas para Sitios Web"
+description: "Ofrecemos un servicio completo de implementación de plantillas para que puedas tener un sitio web profesional y atractivo. Desde la selección de plantillas hasta la personalización, estamos aquí para llevar tu presencia en línea al siguiente nivel."
+custom_link_label: "Consultar Ejemplos"
+custom_link: "https://ejemplo.com/ejemplos"
+updatedDate: "Jun 01 2024"
+pricing: "Varía según tus necesidades"
+badge: "Destacado"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/itemPreview.png"
+heroImage: "/imagenEjemplo.png"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Si deseas tener un sitio web impactante y funcional, has llegado al lugar indicado. Nuestro servicio de implementación de plantillas te ofrece una amplia variedad de opciones para adaptar tu sitio web a tus requisitos. Ya sea que necesites una plantilla para un blog, un portafolio o una tienda en línea, estamos aquí para simplificar el proceso.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Nuestros servicios incluyen la selección de plantillas de alta calidad, personalización de diseño y contenido, integración de funcionalidades específicas y optimización para dispositivos móviles. Con nosotros, puedes tener la seguridad de que tu sitio web cumplirá con tus expectativas y las de tus visitantes.
+
+Contáctanos hoy mismo para consultar ejemplos de proyectos anteriores y obtener una cotización personalizada según tus necesidades y presupuesto. Impulsa tu presencia en línea con un sitio web de calidad que destaque entre la competencia.
