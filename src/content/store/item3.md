@@ -1,13 +1,13 @@
 ---
-title: "Desarrollo de Páginas Web Estáticas"
+title: "Desarrollo de Páginas Web Para Negocios o Servicios"
 description: "Ofrecemos servicios especializados en la creación de páginas web estáticas que cautiven a tus visitantes. Desde páginas de publicidad impactantes hasta landing pages efectivas, estamos aquí para convertir tus ideas en realidad en línea."
 custom_link_label: "Ver Ejemplos"
 custom_link: "https://ejemplo.com/ejemplos"
 updatedDate: "Sep 15 2022"
-pricing: "Precios asequibles"
+pricing: "$5,000 mxn -  $15,000 mxn"
 badge: "Destacado"
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/imagenEjemplo.png"
+heroImage: "https://images.unsplash.com/photo-1551434678-e076c223a692?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 ---
 
 ¿Deseas tener una presencia en línea efectiva y atractiva? Nuestro servicio de desarrollo de páginas web estáticas es la solución perfecta. Nos especializamos en la creación de páginas web que resaltan tus productos, servicios o mensajes de manera impactante.

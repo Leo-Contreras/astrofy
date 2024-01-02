@@ -4,10 +4,10 @@ description: "Ofrecemos un servicio completo de implementación de plantillas pa
 custom_link_label: "Consultar Ejemplos"
 custom_link: "https://ejemplo.com/ejemplos"
 updatedDate: "Jun 01 2024"
-pricing: "Varía según tus necesidades"
-badge: "Destacado"
+pricing: "$1,000 mxn -  $5,000 mxn"
+badge: ""
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/imagenEjemplo.png"
+heroImage: "https://static.rfstat.com/bloggers_folders/3e4c9ec5-2759-4115-9db1-d4dd7f0044e7.JPG"
 ---
 
 Si deseas tener un sitio web impactante y funcional, has llegado al lugar indicado. Nuestro servicio de implementación de plantillas te ofrece una amplia variedad de opciones para adaptar tu sitio web a tus requisitos. Ya sea que necesites una plantilla para un blog, un portafolio o una tienda en línea, estamos aquí para simplificar el proceso.

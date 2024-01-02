@@ -4,10 +4,10 @@ description: "Ofrecemos servicios de edición y cambios en páginas web para sat
 custom_link_label: "Muestra Gratuita"
 custom_link: "https://ejemplo.com/muestra"
 updatedDate: "Sep 15 2022"
-pricing: "Varía según el alcance"
-badge: "Destacado"
+pricing: "Cotización personalizada"
+badge: ""
 checkoutUrl: "https://checkouturl.com/"
-heroImage: "/imagenEjemplo.png"
+heroImage: "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 ---
 
 Si estás buscando mejorar tu presencia en línea, estás en el lugar correcto. Nuestro servicio de edición web ofrece una amplia gama de opciones para satisfacer tus necesidades. Ya sea que necesites pequeños ajustes o una revisión completa de tu sitio, estamos aquí para ayudarte.
