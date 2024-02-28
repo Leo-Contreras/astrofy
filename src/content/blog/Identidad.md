@@ -4,6 +4,7 @@ description: "Identidad Digital BC, es un proyecto innovador que utiliza Java y 
 pubDate: "Sep 10 2023"
 heroImage: "https://www.identidadbc.bajacalifornia.gob.mx/resources/img/Imagenes/img_huella@4x.png"
 tags: ["java" , "PostgresSQL"]
+custom_url: "https://www.identidadbc.bajacalifornia.gob.mx/oauthV2.xhtml?client_id=201910171350301234&redirect_url=https%3A%2F%2Fwww.identidadbc.bajacalifornia.gob.mx%2Findex.xhtml&state=PrkkV36jz-G4kzhXMkK6siGUT503_BTb3a1lY6ioub1RDvK7JlCTNETQ_fYtMCY3"
 ---
 
 El proyecto "Identidad Digital BC", inaugurado el 10 de septiembre de 2023, representa un avance significativo en la digitalización de la identificación ciudadana. Utilizando tecnologías de punta como Java y PostgreSQL, este sistema proporciona una solución robusta y segura para la gestión de identidades digitales, lo que facilita a los ciudadanos el acceso a servicios gubernamentales y otros servicios en línea.

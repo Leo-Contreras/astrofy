@@ -4,6 +4,7 @@ description: "Explora los 'Proyectos Emblemáticos Marina Avila Del Pilar', una 
 pubDate: "Dec 20 2023"
 heroImage: "https://emblematico.adigitalbc.com/assets/img/infografias/tramites-main.jpg"
 tags: ["PHP","Bootstrap", "Astro"]
+custom_url: "https://emblematico.adigitalbc.com/"
 ---
 
 Los 'Proyectos Emblemáticos Marina Avila Del Pilar', presentados el 20 de diciembre de 2023, son una muestra del compromiso y la visión de la gobernadora en impulsar el desarrollo integral del estado. Este sitio web es una plataforma que exhibe una amplia gama de proyectos, abarcando desde mejoras en infraestructura y tecnología hasta iniciativas en educación, salud y desarrollo social.

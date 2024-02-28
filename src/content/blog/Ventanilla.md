@@ -5,6 +5,7 @@ pubDate: "Mar 12 2023"
 heroImage: "https://www.ventanillabc.bajacalifornia.gob.mx/assets/img/slide/banner1.jpg"
 badge: "Demo badge"
 tags: ["PHP","Bootstrap","MySQL"]
+custom_url: "https://www.ventanillabc.bajacalifornia.gob.mx/"
 ---
 
 La Ventanilla Única, introducida al público el 12 de marzo de 2023, representa un salto cualitativo en la prestación de servicios gubernamentales digitales. Utilizando un conjunto de tecnologías modernas como PHP, Bootstrap y MySQL, esta plataforma ha sido diseñada para ofrecer un punto de acceso unificado a una variedad de trámites y servicios gubernamentales.

@@ -4,6 +4,7 @@ description: "El Turnero Agencia Digital, lanzado el 10 de abril de 2023, es una
 pubDate: "Apr 10 2023"
 heroImage: "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/64b8557a27f8c600097f52ea/screenshot_2023-07-19-21-29-46-0000.png"
 tags: ["React","Bootstrap", "Node" , "Firebase" , "MySQL"]
+custom_url: "https://turnero-fb-adbc.netlify.app/"
 ---
 
 El Turnero Agencia Digital del Estado de Baja California, inaugurado el 10 de abril de 2023, marca un avance significativo en la gestión de servicios gubernamentales. Desarrollado con una combinación de tecnologías de vanguardia, incluyendo React, Bootstrap, Node, Firebase y MySQL, este sistema de turnos digitales está diseñado para mejorar la experiencia del usuario y la eficiencia operativa de las oficinas gubernamentales.

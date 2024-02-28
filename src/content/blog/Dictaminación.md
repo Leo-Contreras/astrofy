@@ -4,6 +4,7 @@ description: "Explora el Sitio de Dictaminación de la Agencia Digital, una plat
 pubDate: "Jul 10 2023"
 heroImage: "https://screenshot-proxy.netlify.app/f_avif,fit_cover,s_1920x1200/https://d33wubrfki0l68.cloudfront.net/658f26eea5b908000897b9d4/screenshot_2023-12-29-20-07-58-0000.webp"
 tags: ["React","Bootstrap", "Node"]
+custom_url: "https://adbc-dictamenes.netlify.app/"
 ---
 
 El Sitio de Dictaminación de la Agencia Digital representa un avance significativo en la digitalización de procesos administrativos. Lanzado el 10 de julio de 2023, este sitio web ha sido diseñado con las últimas tecnologías en desarrollo web, incluyendo React, Bootstrap y Node, para garantizar una experiencia de usuario fluida y eficiente.

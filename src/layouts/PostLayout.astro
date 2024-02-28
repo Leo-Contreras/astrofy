@@ -6,7 +6,7 @@ import localizedFormat from "dayjs/plugin/localizedFormat";
 
 export interface Props extends BlogSchema {}
 
-const { title, description, pubDate, updatedDate, heroImage, badge, tags = [] } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, badge, tags , custom_url = [] } = Astro.props;
 dayjs.extend(localizedFormat);
 const displayDate = dayjs(pubDate).format("ll")
 import { Image } from "astro:assets";
@@ -20,6 +20,7 @@ import { Image } from "astro:assets";
       {pubDate && <time>{displayDate}</time>}
       <br />
       {badge && <div class="badge badge-secondary my-1">{badge}</div>}
+      
       {
         tags &&
           tags.map((tag) => (
@@ -28,6 +29,14 @@ import { Image } from "astro:assets";
             </a>
           ))
       }
+         {
+          custom_url && (
+            <a class="btn btn-outline grow md:grow-0 ml-4" href={custom_url} target="_blank">
+              {"Sitio Web"}
+            </a>
+          )
+        }
+     
       {
         updatedDate && (
           <div>

@@ -4,6 +4,7 @@ description: "la 'Página MUAC' es una plataforma integral desarrollada con Reac
 pubDate: "Dec 15 2023"
 heroImage: "https://www.ventanillabc.bajacalifornia.gob.mx/assets/img/slide/BC-MUAC-desktop@4k.jpg"
 tags: ["React","Node" ,"Bootstrap"]
+custom_url: "https://muac.bajacalifornia.gob.mx/"
 ---
 
 La 'Página MUAC', representa un hito en la digitalización de los servicios de atención al ciudadano. Desarrollada con tecnologías avanzadas como React, Node y Bootstrap, esta plataforma se caracteriza por su interfaz de usuario intuitiva y su diseño responsivo, lo que garantiza una experiencia de usuario óptima en cualquier dispositivo.
